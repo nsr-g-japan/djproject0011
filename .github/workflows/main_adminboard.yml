@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'adminboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10F53A89BFEB44ED8C085E44E5C314F3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1084F3318CE54A9E99366038108A3833 }}
